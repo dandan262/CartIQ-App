@@ -43,7 +43,7 @@ The app will open at `http://localhost:8501`
 
 ## 📊 Live Demo
 
-👉 **[Open CartIQ on Streamlit Cloud]([https://cartiq-app-jhyxsdgmhah...streamlit.app])**
+👉 **[Open CartIQ on Streamlit Cloud]([https://cartiq-app-jhyxsdgmhahstreamlit.app])**
 
 ---
 
