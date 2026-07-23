@@ -230,11 +230,7 @@ p, li {
    THE ULTIMATE MODERN SAAS TOUCHES
    ========================================= */
 
-/* 1. Hide Streamlit branding/header to make it look like a standalone app */
-header[data-testid="stHeader"], 
-footer {
-    display: none !important;
-}
+/* Streamlit default header restored to ensure sidebar toggle works */
 
 /* 2. Global Deep Modern Background with Subtle Glowing Orbs */
 [data-testid="stAppViewContainer"] > div:first-child {
